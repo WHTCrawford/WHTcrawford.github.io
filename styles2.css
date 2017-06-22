@@ -71,5 +71,8 @@ color: grey;
     overflow: hidden;
 }
 
+table {
+  empty-cells:hide;
+}
 	
 
